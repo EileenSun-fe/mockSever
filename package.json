@@ -1,0 +1,26 @@
+{
+  "name": "mocksever",
+  "version": "1.0.0",
+  "description": "mock server for local dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EileenSun-fe/mockSever.git"
+  },
+  "keywords": [
+    "mockSever"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EileenSun-fe/mockSever/issues"
+  },
+  "homepage": "https://github.com/EileenSun-fe/mockSever#readme",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
