@@ -4,8 +4,7 @@
   "description": "mock server for local dev",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js",
-    "test": "test"
+    "dev": "node index.js"
   },
   "repository": {
     "type": "git",
